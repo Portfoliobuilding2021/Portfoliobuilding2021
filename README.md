@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Portfoliobuilding2021/Portfoliobuilding2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- I will miss Tisha as I love her so much. 
+- This is our last year together.
